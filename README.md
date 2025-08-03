@@ -61,14 +61,4 @@ npm run dev
 <br><br>
 <img width="1042" alt="CarRental 8" src="https://github.com/pjyotianwar/Car-Rental/assets/70092582/4b5011a5-5191-463e-99e9-9f7222363512">
 
-## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-[MIT](LICENSE)
-
-## Acknowledgements
-
-- Special thanks to the developers and contributors of the libraries and technologies used in this project.
